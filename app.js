@@ -1,6 +1,6 @@
 var localData, search;
 
-$.getJSON("/localData.json", function (response) {
+$.getJSON("localData.json", function (response) {
     localData = response;
 }).fail(function (xhr, status, error) {
     console.log("Terjadi kesalahan: " + status, error);
