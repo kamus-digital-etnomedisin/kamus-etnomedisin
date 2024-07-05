@@ -26,5 +26,670 @@
         "type": "nomina",
         "defenition": "akar beraroma dari rumput Vetiveria zizanioides",
         "function": "Untuk aromaterapi dan mengusir serangga"
+    },
+    "bawang merah": {
+        "spelling": "/ba·wang me·rah/",
+        "translate": "bawang sirah",
+        "type": "nomina",
+        "defenition": "umbi lapis berwarna merah sebagai bumbu masak",
+        "function": "Untuk mengobati flu dan batuk"
+    },
+    "bawang putih": {
+        "spelling": "/ba·wang pu·tih/",
+        "translate": "bawang putiah",
+        "type": "nomina",
+        "defenition": "umbi lapis berwarna putih sebagai bumbu masak",
+        "function": "Untuk meningkatkan sistem kekebalan tubuh"
+    },
+    "belimbing wuluh": {
+        "spelling": "/be·lim·bing wu·luh/",
+        "translate": "balimbiang suluh",
+        "type": "nomina",
+        "defenition": "buah berasa asam berbentuk bintang",
+        "function": "Untuk menurunkan tekanan darah tinggi"
+    },
+    "bisa ular": {
+        "spelling": "/bi·sa u·lar/",
+        "translate": "biso ula",
+        "type": "nomina",
+        "defenition": "racun yang dihasilkan oleh ular",
+        "function": "Untuk membuat antivenom dan sebagai analgesik"
+    },
+    "bunga telang": {
+        "spelling": "/bu•nga te•lang/",
+        "translate": "bungo talang",
+        "type": "nomina",
+        "defenition": "bunga berwarna biru dari tanaman Clitoria ternatea",
+        "function": "Untuk pewarna makanan alami dan meningkatkan penglihatan"
+    },
+    "cabe jawa": {
+        "spelling": "/ca·be ja·wa/",
+        "translate": "lado jao",
+        "type": "nomina",
+        "defenition": "rempah berbentuk bulat panjang",
+        "function": "Untuk meningkatkan stamina"
+    },
+    "cengkeh": {
+        "spelling": "/ceng·keh/",
+        "translate": "cangkeh",
+        "type": "nomina",
+        "defenition": "rempah berbentuk seperti paku",
+        "function": "Untuk meredakan sakit gigi"
+    },
+    "ceremai": {
+        "spelling": "/ce·re·mai/",
+        "translate": "caramei",
+        "type": "nomina",
+        "defenition": "buah bulat kecil berasa asam",
+        "function": "Untuk mengobati sariawan dan meningkatkan nafsu makan"
+    },
+    "cendana": {
+        "spelling": "/cen•da•na/",
+        "translate": "cendana",
+        "type": "nomina",
+        "defenition": "kayu beraroma dari pohon Santalum album",
+        "function": "Untuk aromaterapi dan pengobatan kulit"
+    },
+    "daun binahong": {
+        "spelling": "/da·un bi·na·hong/",
+        "translate": "daun binahong",
+        "type": "nomina",
+        "defenition": "daun dari tanaman merambat",
+        "function": "Untuk mempercepat penyembuhan luka"
+    },
+    "daun jambu biji": {
+        "spelling": "/da·un jam·bu bi·ji/",
+        "translate": "daun paraweh",
+        "type": "nomina",
+        "defenition": "daun dari pohon jambu biji",
+        "function": "Untuk mengobati diare"
+    },
+    "daun sirih": {
+        "spelling": "/da·un si·rih/",
+        "translate": "daun siriah",
+        "type": "nomina",
+        "defenition": "daun dari tanaman merambat berbentuk hati",
+        "function": "Untuk menghentikan pendarahan dan sebagai antiseptik alami"
+    },
+    "daun dewa": {
+        "spelling": "/da•un de•wa/",
+        "translate": "daun dewa",
+        "type": "nomina",
+        "defenition": "daun dari tanaman Gynura segetum",
+        "function": "Untuk mengobati kanker dan menurunkan kolesterol"
+    },
+    "eceng gondok": {
+        "spelling": "/e·ceng gon·dok/",
+        "translate": "kiambang",
+        "type": "nomina",
+        "defenition": "tumbuhan air dengan daun tebal mengambang",
+        "function": "Untuk mengobati gondok dan sebagai bahan kerajinan"
+    },
+    "ekor kucing": {
+        "spelling": "/e·kor ku·cing/",
+        "translate": "ikua kuciang",
+        "type": "nomina",
+        "defenition": "tanaman hias dengan bunga berbentuk ekor kucing",
+        "function": "Untuk mengobati batu ginjal dan infeksi saluran kemih"
+    },
+    "eucalyptus": {
+        "spelling": "/eu·ca·lyp·tus/",
+        "translate": "kayu putiah",
+        "type": "nomina",
+        "defenition": "pohon dengan daun berbau harum",
+        "function": "Untuk meredakan gejala flu dan pilek"
+    },
+    "edelweis": {
+        "spelling": "/e•del•weis/",
+        "translate": "edelweis",
+        "type": "nomina",
+        "defenition": "bunga abadi dari pegunungan",
+        "function": "Sebagai tanaman hias dan simbol keabadian"
+    },
+    "flamboyant": {
+        "spelling": "/flam·bo·yan/",
+        "translate": "flamboyan",
+        "type": "nomina",
+        "defenition": "pohon dengan bunga merah menyala",
+        "function": "Untuk mengobati disentri dan sebagai tanaman hias"
+    },
+    "fennel": {
+        "spelling": "/fe·nnel/",
+        "translate": "adas manis",
+        "type": "nomina",
+        "defenition": "tumbuhan aromatik dengan biji harum",
+        "function": "Untuk meredakan kembung dan meningkatkan produksi ASI"
+    },
+    "fenugreek": {
+        "spelling": "/fe·nu·greek/",
+        "translate": "hulbah",
+        "type": "nomina",
+        "defenition": "tumbuhan dengan biji berbau khas",
+        "function": "Untuk mengontrol kadar gula darah dan meningkatkan produksi ASI"
+    },
+    "furcelleran": {
+        "spelling": "/fur•cel•le•ran/",
+        "translate": "furcelleran",
+        "type": "nomina",
+        "defenition": "polisakarida dari rumput laut merah",
+        "function": "Sebagai pengental dalam industri makanan"
+    },
+    "gandarusa": {
+        "spelling": "/gan·da·ru·sa/",
+        "translate": "gendaruso",
+        "type": "nomina",
+        "defenition": "tumbuhan perdu dengan daun lanset",
+        "function": "Untuk mengobati rematik dan nyeri sendi"
+    },
+    "gingseng": {
+        "spelling": "/ging·seng/",
+        "translate": "gingseng",
+        "type": "nomina",
+        "defenition": "tanaman dengan akar berumbi sebagai obat",
+        "function": "Untuk meningkatkan vitalitas dan daya tahan tubuh"
+    },
+    "ginger": {
+        "spelling": "/gi·nger/",
+        "translate": "sipadeh",
+        "type": "nomina",
+        "defenition": "rimpang berbau khas dan berasa pedas",
+        "function": "Untuk menghangatkan tubuh dan meredakan mual"
+    },
+    "gambir": {
+        "spelling": "/gam·bir/",
+        "translate": "gambia",
+        "type": "nomina",
+        "defenition": "tanaman dengan getah sebagai bahan penyamak",
+        "function": "Untuk mengobati diare dan sebagai astringen"
+    },
+    "gaharu": {
+        "spelling": "/ga·ha·ru/",
+        "translate": "gaharu",
+        "type": "nomina",
+        "defenition": "kayu beraroma dari pohon penghasil gaharu",
+        "function": "Untuk aromaterapi dan pengobatan tradisional"
+    },
+    "goji berry": {
+        "spelling": "/go•ji ber•ry/",
+        "translate": "goji berry",
+        "type": "nomina",
+        "defenition": "buah kering dari tanaman Lycium barbarum",
+        "function": "Sebagai superfood dan meningkatkan sistem kekebalan tubuh"
+    },
+    "harendong": {
+        "spelling": "/ha·ren·dong/",
+        "translate": "harendong",
+        "type": "nomina",
+        "defenition": "tumbuhan perdu dengan buah berwarna ungu",
+        "function": "Untuk mengobati diabetes dan menurunkan kolesterol"
+    },
+    "habbatussauda": {
+        "spelling": "/hab·ba·tus·sau·da/",
+        "translate": "jintan hitam",
+        "type": "nomina",
+        "defenition": "biji hitam kecil dari tanaman Nigella sativa",
+        "function": "Untuk meningkatkan sistem kekebalan tubuh"
+    },
+    "himalaya": {
+        "spelling": "/hi·ma·la·ya/",
+        "translate": "himalaya",
+        "type": "nomina",
+        "defenition": "tanaman herbal dari pegunungan Himalaya",
+        "function": "Untuk detoksifikasi dan perawatan kulit"
+    },
+    "insulin": {
+        "spelling": "/in·su·lin/",
+        "translate": "insulin",
+        "type": "nomina",
+        "defenition": "hormon yang mengatur kadar gula darah",
+        "function": "Untuk mengobati diabetes"
+    },
+    "iles-iles": {
+        "spelling": "/i·les-i·les/",
+        "translate": "iles-iles",
+        "type": "nomina",
+        "defenition": "umbi-umbian dari keluarga talas",
+        "function": "Sebagai sumber pati dan bahan industri"
+    },
+    "inggu": {
+        "spelling": "/ing·gu/",
+        "translate": "inggu",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan akar beraroma kuat",
+        "function": "Untuk mengobati asma dan bronchitis"
+    },
+    "ilalang": {
+        "spelling": "/i•la•lang/",
+        "translate": "ilalang",
+        "type": "nomina",
+        "defenition": "rumput liar dengan daun tajam",
+        "function": "Untuk atap rumah tradisional dan obat diuretik"
+    },
+    "jahe": {
+        "spelling": "/ja·he/",
+        "translate": "sipodeh",
+        "type": "nomina",
+        "defenition": "rimpang beraroma khas dan berasa pedas",
+        "function": "Untuk menghangatkan tubuh dan meredakan mual"
+    },
+    "jarak": {
+        "spelling": "/ja·rak/",
+        "translate": "jarak",
+        "type": "nomina",
+        "defenition": "tanaman penghasil minyak dari bijinya",
+        "function": "Untuk obat pencahar dan bahan bakar biodiesel"
+    },
+    "jeruk nipis": {
+        "spelling": "/je·ruk ni·pis/",
+        "translate": "asam kapeh",
+        "type": "nomina",
+        "defenition": "buah jeruk kecil berasa asam",
+        "function": "Untuk meningkatkan daya tahan tubuh dan membantu pencernaan"
+    },
+    "jintan hitam": {
+        "spelling": "/jin•tan hi•tam/",
+        "translate": "jintan hitam",
+        "type": "nomina",
+        "defenition": "biji hitam kecil dari tanaman Nigella sativa",
+        "function": "Untuk meningkatkan sistem kekebalan tubuh dan sebagai antioksidan"
+    },
+    "kencur": {
+        "spelling": "/ken·cur/",
+        "translate": "cakua",
+        "type": "nomina",
+        "defenition": "rimpang aromatik dari keluarga jahe",
+        "function": "Untuk mengobati batuk dan meningkatkan nafsu makan"
+    },
+    "kumis kucing": {
+        "spelling": "/ku·mis ku·cing/",
+        "translate": "kumih kuciang",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan bunga seperti kumis kucing",
+        "function": "Untuk mengobati batu ginjal dan infeksi saluran kemih"
+    },
+    "kunyit": {
+        "spelling": "/ku·nyit/",
+        "translate": "kunyi",
+        "type": "nomina",
+        "defenition": "rimpang berwarna kuning dari keluarga jahe",
+        "function": "Untuk anti-inflamasi dan meningkatkan pencernaan"
+    },
+    "kemangi": {
+        "spelling": "/ke•ma•ngi/",
+        "translate": "kamangi",
+        "type": "nomina",
+        "defenition": "daun aromatik dari keluarga basil",
+        "function": "Untuk meningkatkan nafsu makan dan sebagai antibakteri"
+    },
+    "lengkuas": {
+        "spelling": "/leng·ku·as/",
+        "translate": "langkueh",
+        "type": "nomina",
+        "defenition": "rimpang aromatik dari keluarga jahe",
+        "function": "Untuk mengobati penyakit kulit dan meningkatkan pencernaan"
+    },
+    "lidah buaya": {
+        "spelling": "/li·dah bu·a·ya/",
+        "translate": "lidah buayo",
+        "type": "nomina",
+        "defenition": "tanaman sukulen dengan daun berdaging tebal",
+        "function": "Untuk perawatan kulit dan luka bakar"
+    },
+    "lada": {
+        "spelling": "/la·da/",
+        "translate": "lado",
+        "type": "nomina",
+        "defenition": "biji kering dari tanaman lada sebagai bumbu",
+        "function": "Untuk meningkatkan pencernaan dan sebagai antioksidan"
+    },
+    "laos": {
+        "spelling": "/la•os/",
+        "translate": "langkueh",
+        "type": "nomina",
+        "defenition": "rimpang aromatik dari keluarga jahe",
+        "function": "Untuk mengobati penyakit kulit dan meningkatkan pencernaan"
+    },
+    "mahkota dewa": {
+        "spelling": "/mah·ko·ta de·wa/",
+        "translate": "mahkota dewa",
+        "type": "nomina",
+        "defenition": "buah merah dari tanaman Phaleria macrocarpa",
+        "function": "Untuk mengobati kanker dan diabetes"
+    },
+    "mengkudu": {
+        "spelling": "/meng·ku·du/",
+        "translate": "mengkudu",
+        "type": "nomina",
+        "defenition": "buah putih kekuningan dengan aroma khas",
+        "function": "Untuk meningkatkan sistem kekebalan tubuh"
+    },
+    "mint": {
+        "spelling": "/mint/",
+        "translate": "mint",
+        "type": "nomina",
+        "defenition": "tanaman aromatik dari keluarga Lamiaceae",
+        "function": "Untuk meredakan sakit kepala dan membantu pencernaan"
+    },
+    "manggis": {
+        "spelling": "/mang•gis/",
+        "translate": "manggih",
+        "type": "nomina",
+        "defenition": "buah tropis dengan kulit ungu dan daging putih",
+        "function": "Sebagai antioksidan dan anti-inflamasi"
+    },
+    "nanas": {
+        "spelling": "/na·nas/",
+        "translate": "naneh",
+        "type": "nomina",
+        "defenition": "buah tropis dengan daging kuning dan rasa manis asam",
+        "function": "Untuk membantu pencernaan dan sebagai diuretic"
+    },
+    "nangka": {
+        "spelling": "/nang·ka/",
+        "translate": "cubadak",
+        "type": "nomina",
+        "defenition": "buah tropis besar dengan daging kuning manis",
+        "function": "Sebagai sumber vitamin dan mineral"
+    },
+    "nilam": {
+        "spelling": "/ni·lam/",
+        "translate": "nilam",
+        "type": "nomina",
+        "defenition": "tanaman penghasil minyak atsiri",
+        "function": "Untuk aromaterapi dan pengobatan tradisional"
+    },
+    "nimba": {
+        "spelling": "/nim•ba/",
+        "translate": "mimba",
+        "type": "nomina",
+        "defenition": "pohon dengan daun pahit",
+        "function": "Sebagai insektisida alami dan obat malaria"
+    },
+    "okra": {
+        "spelling": "/ok·ra/",
+        "translate": "okra",
+        "type": "nomina",
+        "defenition": "sayuran berbentuk kapsul dari tanaman Abelmoschus esculentus",
+        "function": "Untuk mengontrol kadar gula darah dan menurunkan kolesterol"
+    },
+    "oregano": {
+        "spelling": "/o·re·ga·no/",
+        "translate": "oregano",
+        "type": "nomina",
+        "defenition": "tanaman herbal aromatik dari keluarga mint",
+        "function": "Sebagai antioksidan dan anti-inflamasi"
+    },
+    "oyong": {
+        "spelling": "/o·yong/",
+        "translate": "oyong",
+        "type": "nomina",
+        "defenition": "sayuran dari keluarga labu-labuan",
+        "function": "Untuk menurunkan tekanan darah dan sebagai diuretik"
+    },
+    "pegagan": {
+        "spelling": "/pe·ga·gan/",
+        "translate": "pegagan",
+        "type": "nomina",
+        "defenition": "tanaman herbal merambat",
+        "function": "Untuk meningkatkan memori dan sirkulasi darah"
+    },
+    "pepaya": {
+        "spelling": "/pe·pa·ya/",
+        "translate": "kalikih",
+        "type": "nomina",
+        "defenition": "buah tropis dengan daging oranye dan biji hitam",
+        "function": "Untuk membantu pencernaan dan sebagai sumber vitamin"
+    },
+    "pare": {
+        "spelling": "/pa·re/",
+        "translate": "peria",
+        "type": "nomina",
+        "defenition": "sayuran berbentuk lonjong dengan rasa pahit",
+        "function": "Untuk mengontrol kadar gula darah dan menurunkan kolesterol"
+    },
+    "quinoa": {
+        "spelling": "/qui·no·a/",
+        "translate": "quinoa",
+        "type": "nomina",
+        "defenition": "biji-bijian dari tanaman Chenopodium quinoa",
+        "function": "Sebagai sumber protein nabati dan serat"
+    },
+    "quercus": {
+        "spelling": "/quer·cus/",
+        "translate": "pohon ek",
+        "type": "nomina",
+        "defenition": "pohon dari keluarga Fagaceae",
+        "function": "Untuk mengobati diare dan sebagai astringen"
+    },
+    "quassia": {
+        "spelling": "/quas·sia/",
+        "translate": "quassia",
+        "type": "nomina",
+        "defenition": "tanaman pohon dengan kayu pahit",
+        "function": "Sebagai insektisida alami dan tonik pencernaan"
+    },
+    "rosella": {
+        "spelling": "/ro·sel·la/",
+        "translate": "rosella",
+        "type": "nomina",
+        "defenition": "tanaman dengan bunga merah yang dapat dimakan",
+        "function": "Untuk menurunkan tekanan darah dan sebagai antioksidan"
+    },
+    "rimpang temulawak": {
+        "spelling": "/rim·pang te·mu·la·wak/",
+        "translate": "temulawak",
+        "type": "nomina",
+        "defenition": "rimpang kuning dari keluarga jahe",
+        "function": "Untuk meningkatkan fungsi hati dan pencernaan"
+    },
+    "rumput laut": {
+        "spelling": "/rum·put la·ut/",
+        "translate": "ganggang",
+        "type": "nomina",
+        "defenition": "tumbuhan laut yang dapat dimakan",
+        "function": "Sebagai sumber yodium dan antioksidan"
+    },
+    "sambiloto": {
+        "spelling": "/sam·bi·lo·to/",
+        "translate": "sambiloto",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan daun pahit",
+        "function": "Untuk mengobati demam dan meningkatkan sistem kekebalan tubuh"
+    },
+    "seledri": {
+        "spelling": "/se·le·dri/",
+        "translate": "saladri",
+        "type": "nomina",
+        "defenition": "sayuran beraroma khas dari keluarga Apiaceae",
+        "function": "Untuk menurunkan tekanan darah dan sebagai diuretik"
+    },
+    "sirsak": {
+        "spelling": "/sir·sak/",
+        "translate": "durian balando",
+        "type": "nomina",
+        "defenition": "buah tropis dengan daging putih dan rasa manis asam",
+        "function": "Untuk mengobati kanker dan meningkatkan sistem kekebalan tubuh"
+    },
+    "temulawak": {
+        "spelling": "/te·mu·la·wak/",
+        "translate": "temulawak",
+        "type": "nomina",
+        "defenition": "rimpang kuning dari keluarga jahe",
+        "function": "Untuk meningkatkan fungsi hati dan pencernaan"
+    },
+    "temu kunci": {
+        "spelling": "/te·mu kun·ci/",
+        "translate": "temu kunci",
+        "type": "nomina",
+        "defenition": "rimpang dari keluarga jahe",
+        "function": "Untuk mengobati masalah pencernaan dan meningkatkan nafsu makan"
+    },
+    "tapak dara": {
+        "spelling": "/ta·pak da·ra/",
+        "translate": "tapak dara",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan bunga berwarna-warni",
+        "function": "Untuk mengobati diabetes dan menurunkan tekanan darah"
+    },
+    "ubi jalar": {
+        "spelling": "/u·bi ja·lar/",
+        "translate": "ubi jala",
+        "type": "nomina",
+        "defenition": "umbi-umbian berwarna oranye, ungu, atau putih",
+        "function": "Sebagai sumber karbohidrat dan vitamin A"
+    },
+    "urang aring": {
+        "spelling": "/u·rang a·ring/",
+        "translate": "urang aring",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan daun berbulu",
+        "function": "Untuk menghitamkan rambut dan mengobati luka"
+    },
+    "ulam raja": {
+        "spelling": "/u·lam ra·ja/",
+        "translate": "ulam raja",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan daun yang dapat dimakan mentah",
+        "function": "Untuk meningkatkan nafsu makan dan sebagai antioksidan"
+    },
+    "valerian": {
+        "spelling": "/va·le·ri·an/",
+        "translate": "valerian",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan akar beraroma khas",
+        "function": "Untuk mengatasi insomnia dan kecemasan"
+    },
+    "vanilla": {
+        "spelling": "/va·nil·la/",
+        "translate": "panili",
+        "type": "nomina",
+        "defenition": "tanaman merambat penghasil buah vanilla",
+        "function": "Sebagai perisa alami dan aromaterapi"
+    },
+    "verbena": {
+        "spelling": "/ver·be·na/",
+        "translate": "verbena",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan bunga kecil berwarna-warni",
+        "function": "Untuk meredakan stres dan meningkatkan mood"
+    },
+    "wijen": {
+        "spelling": "/wi·jen/",
+        "translate": "wijen",
+        "type": "nomina",
+        "defenition": "biji kecil dari tanaman Sesamum indicum",
+        "function": "Sebagai sumber kalsium dan antioksidan"
+    },
+    "wortel": {
+        "spelling": "/wor·tel/",
+        "translate": "wortel",
+        "type": "nomina",
+        "defenition": "umbi berwarna oranye dari tanaman Daucus carota",
+        "function": "Untuk kesehatan mata dan sebagai antioksidan"
+    },
+    "widuri": {
+        "spelling": "/wi·du·ri/",
+        "translate": "widuri",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan getah putih",
+        "function": "Untuk mengobati penyakit kulit dan sebagai obat pencahar"
+    },
+    "waru": {
+        "spelling": "/wa•ru/",
+        "translate": "waru",
+        "type": "nomina",
+        "defenition": "pohon dengan daun berbentuk hati dan bunga kuning",
+        "function": "Untuk mengobati batuk dan sebagai anti-inflamasi"
+    },
+    "xanthium": {
+        "spelling": "/xan·thi·um/",
+        "translate": "xanthium",
+        "type": "nomina",
+        "defenition": "tanaman liar dari keluarga bunga matahari",
+        "function": "Untuk mengobati sinusitis dan alergi"
+    },
+    "xylitol": {
+        "spelling": "/xy·li·tol/",
+        "translate": "xylitol",
+        "type": "nomina",
+        "defenition": "pemanis alami dari serat tanaman",
+        "function": "Sebagai pengganti gula untuk penderita diabetes"
+    },
+    "xylocarpus": {
+        "spelling": "/xy·lo·car·pus/",
+        "translate": "xylocarpus",
+        "type": "nomina",
+        "defenition": "pohon mangrove dengan buah berbentuk bola",
+        "function": "Untuk mengobati diare dan sebagai anti-malaria"
+    },
+    "xanthoriza": {
+        "spelling": "/xan•tho•ri•za/",
+        "translate": "xanthoriza",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan akar kuning",
+        "function": "Untuk mengobati gangguan pencernaan dan sebagai tonik"
+    },
+    "yerba mate": {
+        "spelling": "/yer·ba ma·te/",
+        "translate": "yerba mate",
+        "type": "nomina",
+        "defenition": "daun dari pohon Ilex paraguariensis",
+        "function": "Sebagai stimulan dan sumber antioksidan"
+    },
+    "yacon": {
+        "spelling": "/ya·con/",
+        "translate": "yacon",
+        "type": "nomina",
+        "defenition": "umbi manis dari tanaman Smallanthus sonchifolius",
+        "function": "Untuk mengontrol kadar gula darah dan sebagai prebiotik"
+    },
+    "ylang-ylang": {
+        "spelling": "/y·lang-y·lang/",
+        "translate": "ylang-ylang",
+        "type": "nomina",
+        "defenition": "bunga kuning dari pohon Cananga odorata",
+        "function": "Untuk aromaterapi dan menurunkan tekanan darah"
+    },
+    "yarrow": {
+        "spelling": "/yar•row/",
+        "translate": "yarrow",
+        "type": "nomina",
+        "defenition": "tanaman herbal dengan bunga putih atau merah muda",
+        "function": "Untuk menghentikan pendarahan dan menyembuhkan luka"
+    },
+    "zaitun": {
+        "spelling": "/zai·tun/",
+        "translate": "zaitun",
+        "type": "nomina",
+        "defenition": "buah dari pohon Olea europaea",
+        "function": "Sebagai sumber minyak sehat dan antioksidan"
+    },
+    "zobo": {
+        "spelling": "/zo·bo/",
+        "translate": "zobo",
+        "type": "nomina",
+        "defenition": "bunga merah dari tanaman Hibiscus sabdariffa",
+        "function": "Untuk menurunkan tekanan darah dan sebagai antioksidan"
+    },
+    "zingiber": {
+        "spelling": "/zin·gi·ber/",
+        "translate": "jahe",
+        "type": "nomina",
+        "defenition": "genus tanaman yang mencakup jahe dan temulawak",
+        "function": "Untuk menghangatkan tubuh dan meredakan mual"
+    },
+    "zedoary": {
+        "spelling": "/ze•do•a•ry/",
+        "translate": "kunyit putih",
+        "type": "nomina",
+        "defenition": "rimpang dari keluarga jahe",
+        "function": "Untuk meredakan nyeri dan meningkatkan pencernaan"
+    },
+    "zigzag plant": {
+        "spelling": "/zig•zag plant/",
+        "translate": "tanaman zigzag",
+        "type": "nomina",
+        "defenition": "tanaman hias dengan daun berbentuk zigzag",
+        "function": "Sebagai tanaman hias dan pembersih udara"
     }
 }

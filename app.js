@@ -20,7 +20,7 @@ function searchData(object) {
 
 function searchSelector(){
     $(".selectOptions").each(function (index, element) {
-        $(element).click(function(){
+        $(element).on("click", function(){
             $("#search").val(searchData($(this).attr('data-index'))[0].name);
 
             $("span.dataName").text(searchData($(this).attr('data-index'))[0].name);
@@ -55,5 +55,5 @@ $("#search").keydown(function() {
 }).blur(function() {
     setTimeout(() => {
         $(".searchOptions").html("");
-    }, 25);
+    }, 125);
 });
