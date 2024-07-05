@@ -5,3 +5,11 @@
 body{
     height: 100vh;
 }
+
+.selectOptions{
+    cursor: pointer;
+    transition: .25s;
+}
+.selectOptions:hover{
+    background: #00000045;
+}
