@@ -691,5 +691,705 @@
         "type": "nomina",
         "defenition": "tanaman hias dengan daun berbentuk zigzag",
         "function": "Sebagai tanaman hias dan pembersih udara"
+    },
+    "biriang": {
+    "spelling": "biriaŋ",
+    "translate": "biring",
+    "type": "nomina",
+    "defenition": "Penyakit kulit yang menimbulkan bintik-bintik dan rasa yang sangat gatal.",
+    "function": false
+    },
+    "tinggam": {
+        "spelling": "tiŋgam",
+        "translate": "null",
+        "type": "nomina",
+        "defenition": "Sejenis santet yang tumbuh benjolan disekitar leher korban dan sangat mematikan.",
+        "function": false
+    },
+    "sijundai": {
+        "spelling": "sijundai",
+        "translate": "null",
+        "type": "nomina",
+        "defenition": "Jenis guna-guna dimana korbannya hanya perempuan.",
+        "function": false
+    },
+    "situwuak": {
+        "spelling": "situaʔ",
+        "translate": "null",
+        "type": "nomina",
+        "defenition": "Nyeri pada pundak dan punggung.",
+        "function": false
+    },
+    "koyok": {
+        "spelling": "koyͻʔ",
+        "translate": "null",
+        "type": "nomina",
+        "defenition": "Sakit yang diderita bayi dimana pipi bayi tersebut merah-merah.",
+        "function": false
+    },
+    "kataguran": {
+        "spelling": "kataguran",
+        "translate": "null",
+        "type": "nomina",
+        "defenition": "Kena sampuk makhluk halus.",
+        "function": false
+    },
+    "ciko": {
+        "spelling": "ciko",
+        "translate": "null",
+        "type": "adjektif",
+        "defenition": "Sakit perut secara tiba-tiba.",
+        "function": false
+    },
+    "palasik": {
+        "spelling": "palasIʔ",
+        "translate": "null",
+        "type": "nomina",
+        "defenition": "Palasik tergolong pada ilmu hitam. Orang yang mempunyai ilmu palasik terlihat seperti manusia normal, namun mereka mempunyai kebiasaan yang aneh seperti menghisap darah bayi.",
+        "function": false
+    },
+    "Luko": {
+        "spelling": "luko",
+        "translate": "luka",
+        "type": "nomina",
+        "defenition": "Belah (pecah, cedera, lecet, dan sebagainya) pada kulit karena kena barang yang tajam dan sebagainya.",
+        "function": false
+    },
+    "sariawan": {
+        "spelling": "sariawan",
+        "translate": "seriawan",
+        "type": "nomina",
+        "defenition": "Penyakit pada gusi, bibir bagian dalam, langit-langit mulut, atau lidah (tampak merah atau putih dan melepuh).",
+        "function": false
+    },
+    "gilo": {
+        "spelling": "gilo",
+        "translate": "gila",
+        "type": "a",
+        "defenition": "Sakit ingatan (kurang beres ingatannya); sakit jiwa (sarafnya terganggu atau pikirannya tidak normal).",
+        "function": false
+    },
+    "malaria": {
+        "spelling": "malaria",
+        "translate": "malaria",
+        "type": "nomina",
+        "defenition": "Penyakit infeksi yang banyak dijumpai di daerah tropis, disertai gejala demam fluktuasi suhu secara teratur, ditularkan oleh nyamuk anofeles.",
+        "function": false
+    },
+    "biso": {
+        "spelling": "biso",
+        "translate": "bisa",
+        "type": "nomina",
+        "defenition": "Racun dari binatang.",
+        "function": false
+    },
+    "kurok": {
+        "spelling": "kurͻʔ",
+        "translate": "kurap",
+        "type": "nomina",
+        "defenition": "penyakit kulit semacam kudis, berbentuk bulat yang dapat mengakibatkan gatal.",
+        "function": false
+    },
+    "sampu": {
+        "spelling": "sampu",
+        "translate": "sampu",
+        "type": "nomina",
+        "defenition": "Penyakit yang berindikasi badan pucat, kurang darah.",
+        "function": false
+    },
+    "rajan": {
+        "spelling": "rajan",
+        "translate": "rejan",
+        "type": "a",
+        "defenition": "Sakit perut yang disertai buang-buang air.",
+        "function": false
+    },
+    "damam": {
+        "spelling": "damam",
+        "translate": "demam",
+        "type": "nomina",
+        "defenition": "Panas dan meriang; sakit yang mengakibatkan suhu badan lebih tinggi dari pada biasanya.",
+        "function": false
+    },
+    "takilia": {
+        "spelling": "takiliai",
+        "translate": "terkilir",
+        "type": "verbal",
+        "defenition": "Sakit terpelocok pada urat kaki biasanya terjadi karena terjatuh, tergelincir.",
+        "function": false
+    },
+    "bisua": {
+        "spelling": "bisua",
+        "translate": "bisul",
+        "type": "nomina",
+        "defenition": "Bengkak pada kulit, berisi nanah dan bermata. Panyakit ini umumnya tumbuh akibat bakteri dan parasit.",
+        "function": false
+    },
+    "kagisiran": {
+        "spelling": "kagisiran",
+        "translate": "-",
+        "type": "?",
+        "defenition": "Penyakit yang mengakibatkan badan lemah sebelah seperti kaki atau tangan.",
+        "function": false
+    },
+    "kalimpanan": {
+        "spelling": "kalimpanan",
+        "translate": "-",
+        "type": "-",
+        "defenition": "Perih pada mata yang diakibatkan karena adanya benda yang sangat kecil seperti debu masuk ke dalam mata.",
+        "function": false
+    },
+    "pandarahan": {
+        "spelling": "pandarahan",
+        "translate": "pendarahan",
+        "type": "nomina",
+        "defenition": "Keluarnya darah terlalu berlebihan dari dalam tubuh melalu vagina ataupun daerah lainnya. Hal ini dapat mengakibatkan si penderita kekurangan darah, pusing dan tubuh terasa lemas.",
+        "function": false
+    },
+    "tipus": {
+        "spelling": "tipus",
+        "translate": "tifus",
+        "type": "nomina",
+        "defenition": "Suatu infeksi bakteri yang biasanya disertai oleh beberapa macam penyakit seperti diare, dan penyakit sistematik lainnya yang disebabkan oleh bakteri yang bernama salmonella typhi.",
+        "function": false
+    },
+    "caciangan": {
+        "spelling": "caciaŋan",
+        "translate": "cacingan",
+        "type": "verbal",
+        "defenition": "Menderita sakit karena banyak cacing di dalam perut atau penyakit yang disebabkan oleh cacing.",
+        "function": false
+    },
+    "mencret": {
+        "spelling": "menctrεt",
+        "translate": "diare",
+        "type": "verbal",
+        "defenition": "Sering buang air besar dengan tinja berbentuk cair.",
+        "function": false
+    },
+    "sawan": {
+        "spelling": "sawan",
+        "translate": "ayan",
+        "type": "nomina",
+        "defenition": "Penyakit pada pusat susunan saraf, yang timbul sewaktu-waktu berupa kekejangan, disertai pingsan, dan perubahan gerak-gerik jiwa sewaktu penyakit itu menyerang.",
+        "function": false
+    },
+    "campak": {
+        "spelling": "campaʔ",
+        "translate": "penyakit cacar",
+        "type": "nomina",
+        "defenition": "Penyakit kulit yang disebabkan oleh virus; ketumbuhan; variola;",
+        "function": false
+    },
+    "Butia": {
+        "spelling": "butia",
+        "translate": "kutil",
+        "type": "nomina",
+        "defenition": "Bintik kecil pada kulit berwarna merah. Penyakit ini terjadi akibat kulit lapisan atas terinfeksi.",
+        "function": false
+    },
+    "Taiciah": {
+        "spelling": "taiciah",
+        "translate": "tersayat",
+        "type": "verbal",
+        "defenition": "Luka pada jari atau tangan yang tidak sengaja teriris.",
+        "function": false
+    },
+    "kapiradan": {
+        "spelling": "kapiradan",
+        "translate": "kesemutan",
+        "type": "adjektif",
+        "defenition": "Berasa senyar (geranyam) pada anggota badan, seperti digigit semut, terutama kaki dan tangan (karena lama duduk tanpa bergerak-gerak atau tertekan terlalu lama dan sebagainya).",
+        "function": false
+    },
+    "batuak": {
+        "spelling": "batuaʔ",
+        "translate": "batuk",
+        "type": "nomina",
+        "defenition": "Penyakit pada jalan pernafasan atau paru-paru yang sering menimbulkan rasa gatal pada bagian tenggorokan sehingga merangsang penderita mengeluarkan bunyi yang keras.",
+        "function": false
+    },
+    "tawar": {
+        "spelling": "tawar",
+        "translate": "cacar",
+        "type": "nomina",
+        "defenition": "Penyakit kulit yang terjadi akibat virus.",
+        "function": false
+    },
+    "jumalang": {
+        "spelling": "jumalaŋ",
+        "translate": "",
+        "type": "verbal",
+        "defenition": "Demam yang terlalu tinggi sehingga sipenderita merasa kedinginan.",
+        "function": false
+    },
+    "kodal": {
+        "spelling": "kodal",
+        "translate": "korengan",
+        "type": "nomina",
+        "defenition": "Borok; luka yang bernanah dan membusuk.",
+        "function": false
+    },
+    "kasimburan": {
+        "spelling": "kasimburan",
+        "translate": "-",
+        "type": "-",
+        "defenition": "Penyakit yang menimbulkan bintik-bintik merah pada kulit dan mengakibatkan kulit gatal.",
+        "function": false
+    },
+    "rematik": {
+        "spelling": "rematIʔ",
+        "translate": "rematik",
+        "type": "nomina",
+        "defenition": "Penyakit yang ditandai dengan rasa sakit akibat peradangan dan pembengkakan pada otot.",
+        "function": false
+    },
+    "kasansaman": {
+        "spelling": "kasansaman",
+        "translate": "tertusuk duri",
+        "type": "verbal",
+        "defenition": "Luka tertusuk duri adalah hal yang seringkali terjadi bagi penggemar tanaman. Tidak sengaja tertusuk.",
+        "function": false
+    },
+    "panau": {
+        "spelling": "panau",
+        "translate": "panu",
+        "type": "nomina",
+        "defenition": "Penyakit yang menyerang bagian kulit.",
+        "function": false
+    },
+    "tubo": {
+        "spelling": "kanai tubo",
+        "translate": "tuba",
+        "type": "nomina",
+        "defenition": "Racun.",
+        "function": false
+    },
+    "panek-panek": {
+        "spelling": "panεʔ- panεʔ",
+        "translate": "capek",
+        "type": "nomina",
+        "defenition": "Keadaan tubuh yang terasa capek, lelah dan lesu ditandai oleh adanya keletihan, kejenuhan, ketegangan otot, perubahan dalam kebiasaan makan dan tidur, serta secara umum tingkat energinya rendah.",
+        "function": false
+    },
+    "muntah-muntah": {
+        "spelling": "muntah-muntah",
+        "translate": "muntah-muntah",
+        "type": "verbal",
+        "defenition": "Keluarnya kembali makanan yang telah masuk ke dalam perut.",
+        "function": false
+    },
+    "kajang-kajang": {
+        "spelling": "kajaŋ-kajaŋ",
+        "translate": "kejang demam",
+        "type": "nomina",
+        "defenition": "Kejang demam adalah kondisi yang umumnya dialami oleh anak usia 6 bulan hingga 5 tahun. Keadaan ini seringkali menimbulkan kebingungan dan kepanikan bagi orang tua, yang berpotensi mengakibatkan langkah penanganan yang tidak tepat dan membahayakan.",
+        "function": false
+    },
+    "isak": {
+        "spelling": "isakʔ",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Penyakit kronis yang menyerang saluran pernapasan, ditandai dengan sesak napas, batuk, dan mengi. Asma dapat diderita oleh siapa saja, baik muda maupun tua.",
+        "function": false
+    },
+    "pukang": {
+        "spelling": "pukaŋ",
+        "translate": "-",
+        "type": "-",
+        "defenition": "Sejenis penyakit yang mana penderitanya merasa malu untuk bersua dengan orang lain. Penyakit ini merupakan penyakit kiriman dari seseorang yang berniat jahat kepada orang lain yg menjadi targetnya.",
+        "function": false
+    },
+    "tungau": {
+        "spelling": "tuŋau",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "sejenis penyakit yang menyebabkan gatal-gatal dan bengkak pada organ kemaluan.",
+        "function": false
+    },
+    "upeh": {
+        "spelling": "upɛh",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Sejenis penyakit yang menyebabkan keracunan.",
+        "function": false
+    },
+    "gayuang": {
+        "spelling": "ɡa.ju.ɑŋ",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Sejenis santet yang menyebabkan kematian.",
+        "function": false
+    },
+    "injuang": {
+        "spelling": "injuaŋ",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "sejenis tanaman yang hidup tanah belantara. Tanaman ini digunakan sebagai pagar rumah.",
+        "function": false
+    },
+    "ayam": {
+        "spelling": "ayam",
+        "translate": "ayam",
+        "type": "nomina",
+        "defenition": "Unggas yang tidak dapat terbang, berjengger, yang jantan berkokok, bertaji dan yang betina bekotek. Ayam yang biasa digunakan sebagai ramuan dalam pengobatan adalah ayam kampung yaitu daging dan telurnya.",
+        "function": false
+    },
+    "jariangau": {
+        "spelling": "jariaŋau",
+        "translate": "jerangau",
+        "type": "nomina",
+        "defenition": "Tumbuhan tahunan yang umbinya dapat digunakan sebagai obat atau campuran obat. Akarnya dapat digunakan sebagai bahan ramuan obat dan bumbu dapur).",
+        "function": false
+    },
+    "sicerek": {
+        "spelling": "sicεrεʔ",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Tanaman ini dalam ramuan pengobatan dapat digunakan sebagai antibiotik.",
+        "function": false
+    },
+    "paku": {
+        "spelling": "paku",
+        "translate": "pakis",
+        "type": "nomina",
+        "defenition": "Tumbuhan yang membiak dengan cara melepaskan spora, biji atau tunas. Tumbuhan ini memiliki nama latin diplazium esculentum dan sangat baik untuk penglihatan.",
+        "function": false
+    },
+    "karisiak": {
+        "spelling": "karisiaʔ",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Daun pisang yang sudah tua dan kering.",
+        "function": false
+    },
+    "garam": {
+        "spelling": "garam",
+        "translate": "garam",
+        "type": "nomina",
+        "defenition": "Sejenis mineral yang dapat membuat rasa asin. senyawa kristalin NaCl yang merupakan klorida dan sodium, dapat larut dalam air.",
+        "function": false
+    },
+    "aia": {
+        "spelling": "aia",
+        "translate": "air",
+        "type": "nomina",
+        "defenition": "Cairan jernih tidak bewarna, tidak berbau, sangat dibutuhkan dalam kehidupan makhluk hidup serta mengandung hidrogen dan oksigen.",
+        "function": false
+    },
+    "binalu": {
+        "spelling": "binalu",
+        "translate": "benalu",
+        "type": "nomina",
+        "defenition": "Tumbuhan yang hidup sebagai perasit, menempel pada dahan-dahan pohon kayu lain dan menghisap mineral yang larut dalam pohon kayu yang ditempelinya. Sehungga mengakibatkan dahan pohon kayu yang ditempatinya mati.",
+        "function": false
+    },
+    "rimah": {
+        "spelling": "rimah",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Nasi yang berserakan pada saat makan. Rimah bermanfaat untuk mengobati sakit gigi.",
+        "function": false
+    },
+    "melati": {
+        "spelling": "melati",
+        "translate": "melati",
+        "type": "nomina",
+        "defenition": "Tanaman yang berbunga putih, mungil, mengeluarkan bau yang harum dan sering digunakan berbagai kebutuhan. Melati memiliki nama latin jasminum sambac.",
+        "function": false
+    },
+    "pinang": {
+        "spelling": "pinaŋ",
+        "translate": "pinang",
+        "type": "nomina",
+        "defenition": "Tumbuhan berumpun, berbatang lurus seperti lilin, tangkai daun yang melekat pada batang berbentuk seperti lembaran kulit, buah yang tua berwarna kuning kemerah-merahan untuk kawan makan sirih dan sebagainya; Areca catechu; buah pinang; biji pinang; urat pinang. Urat pinang dapat dimanfaatkan sebagai salah satu ramuan mengobati rematik.",
+        "function": false
+    },
+    "karambia": {
+        "spelling": "karambia",
+        "translate": "kelapa",
+        "type": "nomina",
+        "defenition": "Tumbuhan palem berbatang tinggi dengan buah yang tertutup sabut dan tempurung keras ini merupakan tumbuhan serba guna. Di dalam buahnya terdapat daging yang menghasilkan santan serta air. Tumbuhan ini dikenal dengan nama ilmiah Cocos nucifera. Bagian akar kelapa juga memiliki manfaat, salah satunya digunakan sebagai ramuan tradisional untuk mengobati rematik.",
+        "function": false
+    },
+    "padi": {
+        "spelling": "padi",
+        "translate": "padi",
+        "type": "nomina",
+        "defenition": "Tumbuhan yang menghasilkan beras ini termasuk dalam jenis Oryza. Anak padi yang baru tumbuh juga dapat dimanfaatkan sebagai salah satu ramuan tradisional untuk mengatasi panas dalam.",
+        "function": false
+    },
+    "bareh": {
+        "spelling": "barεh",
+        "translate": "beras",
+        "type": "nomina",
+        "defenition": "Padi yang telah terkelupas kulitnya yang menjadi nasi; bagian bulir padi (gabah) yang telah dipisah dari sekam. Ujung beras merupakan salah satu ramuan untuk pengobatan panas dalam dan biang keringat.",
+        "function": false
+    },
+    "abu": {
+        "spelling": "abu",
+        "translate": "abu",
+        "type": "nomina",
+        "defenition": "Sisa yang tinggal setelah suatu barang mengalami pembakaran lengkap.",
+        "function": false
+    },
+    "saka": {
+        "spelling": "saka",
+        "translate": "gula aren",
+        "type": "nomina",
+        "defenition": "Pemanis yang dibuat dari nira yang berasal dari tandan bungan jantan pohon enau.",
+        "function": false
+    },
+    "Soda": {
+        "spelling": "soda",
+        "translate": "soda",
+        "type": "nomina",
+        "defenition": "Natrium bikarbonat, digunakan dalam pembuatan kue dan roti, dalam kedokteran dan di laboratorium sebagai pereaksi. Manfaat dari cairan ini dalam pengobatan adalah untuk menyembuhkan masuk angin, flu, dan sakit tenggorokan.",
+        "function": false
+    },
+    "Silanjuik": {
+        "spelling": "silanjuiʔ",
+        "translate": "angrek",
+        "type": "nomina",
+        "defenition": "Tumbuhan pasilan yang bunganya indah dan banyak macamnya.",
+        "function": false
+    },
+    "dalimo": {
+        "spelling": "dalimo",
+        "translate": "delima",
+        "type": "nomina",
+        "defenition": "Tumbuhan perdu dengan cabang yang rendah dan berduri jarang. Buah delima digunakan untuk mengobati anemia dan luka.",
+        "function": false
+    },
+    "Taruang": {
+        "spelling": "taruaŋ",
+        "translate": "terung",
+        "type": "nomina",
+        "defenition": "Tumbuhan ini memiliki buah yang dapat disayur atau dimakan mentah. Bentuk buahnya bervariasi, mulai dari bulat panjang, bulat telur, hingga bulat pendek. Warna buahnya pun beragam, seperti putih kehijauan, hijau pucat, atau ungu. Nama latin tumbuhan ini adalah Solanum melongena.",
+        "function": false
+    },
+    "tupai": {
+        "spelling": "tupai",
+        "translate": "tupai",
+        "type": "nomina",
+        "defenition": "Tupai adalah binatang pemakan buah-buahan yang hidup di atas pohon. Tubuhnya berbulu halus dengan warna kuning atau cokelat. Binatang ini memiliki nama latin Sciurus dan diketahui dapat dimanfaatkan untuk mengobati kencing manis.",
+        "function": false
+    },
+    "sidingin": {
+        "spelling": "sidiŋin",
+        "translate": "sedingin",
+        "type": "nomina",
+        "defenition": "Tumbuhan ini memiliki daun yang digunakan sebagai obat untuk penyakit demam. Nama latinnya adalah Bryophyllum calycinum.",
+        "function": false
+    },
+    "sikumpai": {
+        "spelling": "sikumpai",
+        "translate": "kumpai",
+        "type": "nomina",
+        "defenition": "Rumput (gelagah), tumbuh di paya-paya. Panicum stagninum merupakan nama latin dari rumput ini.",
+        "function": false
+    },
+    "pudiang": {
+        "spelling": "pudiaŋ",
+        "translate": "pudding",
+        "type": "nomina",
+        "defenition": "Tumbuhan semak, biasanya sering dijadikan tanaman pagar, warna daunnya merah. Tumbuhan semak yang memiliki nama latin graptophyllum pictum ini dapat dimanfaatkan untuk kesuburan.",
+        "function": false
+    },
+    "capa": {
+        "spelling": "capa",
+        "translate": "capa",
+        "type": "nomina",
+        "defenition": "Tumbuhan yang akar dan daunnya dapat dibuat sebagai obat untuk melancarkan persalinan. Tumbuhan ini memiliki nama latin blumea balsamifera.",
+        "function": false
+    },
+    "bomban": {
+        "spelling": "bomban",
+        "translate": "bemban",
+        "type": "nomina",
+        "defenition": "tumbuhan menyerupai rotan, batangnya biasa dianyam untuk dijadikan bakul, tikar, bidai, dan sebagainya. Donax cannaeformis merupakan nama latin dari tanaman ini. Air batang dari tumbuhan ini bermanfaat untuk mengobati bisul.",
+        "function": false
+    },
+    "kucai": {
+        "spelling": "kucai",
+        "translate": "kucai",
+        "type": "nomina",
+        "defenition": "Bawang yang digunakan sebagai sayur, berdaun panjang kecil-kecil, berwarna hijau. Allium adorum adalah nama ilmiah dari sayuran ini. Daun dari sayuran ini bermanfaat untuk mengobati demam.",
+        "function": false
+    },
+    "lontas": {
+        "spelling": "lontas",
+        "translate": "beluntas",
+        "type": "nomina",
+        "defenition": "Pluchea indica adalah nama latin dari tumbuhan daun beluntas, sebuah tanaman kecil yang banyak ditemukan di kawasan dekat pantai. Tanaman ini tumbuh secara liar dan memiliki berbagai manfaat. Daun beluntas dapat digunakan untuk mengobati pegal linu, bau badan, keputihan, melancarkan keluarnya darah kotor setelah melahirkan, serta meredakan nyeri pinggang dan perut kembung.",
+        "function": false
+    },
+    "Kenop": {
+        "spelling": "kεnop",
+        "translate": "kenop",
+        "type": "nomina",
+        "defenition": "Bunga kenop, yang berasal dari Amerika dan Asia biasanya ditanam sebagai tanaman hias, namun kadang tumbuh liar di ladang-ladang. Tanaman ini tumbuh baik hingga ketinggian 1.400 meter di atas permukaan laut, terutama di tempat yang mendapat cukup sinar matahari. Nama latin bunga kenop adalah Gomphrena globosa. Tanaman ini memiliki berbagai manfaat, seperti mengobati batuk berdarah, menghilangkan benjolan pada tubuh, mengatasi keseleo, dan menyembuhkan koreng.",
+        "function": false
+    },
+    "Brokoli": {
+        "spelling": "brokoli",
+        "translate": "brokoli",
+        "type": "nomina",
+        "defenition": "Brassica oleracea merupakan nama latin dari sayur ini. Sayuran cantik ini dapat dimanfaatkan untuk kekebalan tubuh, kesehatan mata dan jantung.",
+        "function": false
+    },
+    "Paraweh": {
+        "spelling": "parawεh",
+        "translate": "jambu biji",
+        "type": "nomina",
+        "defenition": "Psidium guajava adalah nama latin dari tumbuhan ini. Buah dari jambu biji dapat dimanfaatkan untuk mengobati demam berdarah.",
+        "function": false
+    },
+    "lidi": {
+        "spelling": "lidi",
+        "translate": "lidi",
+        "type": "nomina",
+        "defenition": "Tulang yang terdapat pada dauan kelapa atapun daun enau.",
+        "function": false
+    },
+    "tomat": {
+        "spelling": "tomat",
+        "translate": "tomat",
+        "type": "nomina",
+        "defenition": "Tanaman sayuran, batang dan daunnya berbulu halus, buahnya agak bulat yang muda bewarna hujau dan yang tua (masak) berwarna merah, memiliki banyak biji namun ada pula yang tidak berbiji, digunakan sebagai sayur atau dimakan sebagai buah. Nama latin dari tanaman ini adalah Solanum Lycopercium.",
+        "function": false
+    },
+    "rabuang": {
+        "spelling": "rabuaŋ",
+        "translate": "rebung",
+        "type": "nomina",
+        "defenition": "Anak (bakal batang) buluh yang masih kecil dan masih muda, biasa dibuat sayur.",
+        "function": false
+    },
+    "Timbakau": {
+        "spelling": "timbakau",
+        "translate": "tembakau",
+        "type": "nomina",
+        "defenition": "Tumbuhan yang dikenal dengan nama latin Nikotiana tabakum ini memiliki daun yang lebar. Daun inilah yang diracik halus dan dikeringkan untuk bahan rokok, cerutu dan dapat juga digunakan sebagai pestisida.",
+        "function": false
+    },
+    "lundang": {
+        "spelling": "lundaŋ",
+        "translate": "-",
+        "type": "-",
+        "defenition": "Nama tumbuhan air yang merambat dapat disadap dan airnya dapat dipakai untuk obat yang diteteskan ke mata dan dapat juga digunakan sebagai obat menurunkan panas.",
+        "function": false
+    },
+    "kacubuang": {
+        "spelling": "kacubuaŋ",
+        "translate": "kecubung",
+        "type": "nomina",
+        "defenition": "tumbuhan yang bunganya berbentuk corong atau trompet dan berwarna ungu, bijinya memabukkan.",
+        "function": false
+    },
+    "caciang": {
+        "spelling": "caciaŋ",
+        "translate": "cacing",
+        "type": "nomina",
+        "defenition": "Binatang kecil yang melata, tidak memiliki kaki, tubuhnya bulat dan tidak beranggota. Cacing tanah merupakan salah satu ramuan untuk penyakit tifus.",
+        "function": false
+    },
+    "cacak": {
+        "spelling": "cacaʔ",
+        "translate": "cecak",
+        "type": "nomina",
+        "defenition": "Binatang ini hidup dengan cara merayap dan biasanya ditemukan di dalam rumah. Makanannya berupa binatang kecil, dan sering mengeluarkan bunyi 'cek-cek'. Nama latinnya adalah Hemidactylus frenatus. Binatang ini juga dapat dimanfaatkan untuk mengobati gatal-gatal.",
+        "function": false
+    },
+    "puyuah": {
+        "spelling": "piyuah",
+        "translate": "puyuh",
+        "type": "nomina",
+        "defenition": "Unggas daratan yang kecil namun gemuk. Mereka memakan biji-bijian, serangga, dan mangsa kecil lainnya. Unggas ini bersarang di permukaan tanah serta memiliki kemampuan berlari dan terbang dengan kecepatan tinggi, meskipun hanya untuk jarak pendek.",
+        "function": false
+    },
+    "jawi": {
+        "spelling": "jawi",
+        "translate": "sapi",
+        "type": "nomina",
+        "defenition": "Bos taurus adalah nama latin dari sapi, hewan pemamah biak yang memiliki tanduk, berkuku genap, berkaki empat, dan bertubuh besar. Sapi biasanya dipelihara untuk diambil daging dan susunya. Selain itu, daging sapi mentah juga dapat dimanfaatkan untuk mengobati borok.",
+        "function": false
+    },
+    "kopi": {
+        "spelling": "kopi",
+        "translate": "kopi",
+        "type": "nomina",
+        "defenition": "Coffea adalah nama latin dari tanaman yang banyak ditanam di Asia, Amerika Latin, dan Afrika. Buahnya, atau biji kopi, biasanya digoreng dan ditumbuk halus untuk dijadikan bahan pencampuran minuman. Serbuk kopi yang dihasilkan digunakan untuk membuat minuman kopi, yang dapat dimanfaatkan untuk mengobati sakit kepala dan stres.",
+        "function": false
+    },
+    "Kapunduang": {
+        "spelling": "kapunduaŋ",
+        "translate": "-",
+        "type": "-",
+        "defenition": "Kapunduang (kepundung atau menteng) buah yang mirip dengan buah duku, tetapi rasanya masam (kecut).",
+        "function": false
+    },
+    "mansiang": {
+        "spelling": "mansiaŋ",
+        "translate": "mansiang",
+        "type": "nomina",
+        "defenition": "rumput gelagah berbatang segitiga, tingginya dapat mencapai 2 meter, dibuat barang anyaman yang agak kasar, seperti tikar, tas. Scirpus grossus adalah nama latin dari tumbuhan ini.",
+        "function": false
+    },
+    "dasun": {
+        "spelling": "dasun",
+        "translate": "bawang putih tunggal",
+        "type": "nomina",
+        "defenition": "bawang putih yang tunggal. Bagi masyarakat Minangkabau bawang putih tunggal dapat digunakan untuk menghindari bayi dari palasik.",
+        "function": false
+    },
+    "baluik": {
+        "spelling": "baluiʔ",
+        "translate": "belut",
+        "type": "nomina",
+        "defenition": "Ikan yang bentuknya panjang seperti ulat, tidak bersisik namun kulitnya licin dan hidup di lumpur. Binatang ini memiliki nama latin monopterus albus. Belut kaya akan vitamin bagus untuk kesehatan mata.",
+        "function": false
+    },
+    "japan": {
+        "spelling": "japan",
+        "translate": "labu siam",
+        "type": "nomina",
+        "defenition": "Labu siam atau jipang adalah tumbuhan suku labu-labuan Cucurbitaceae) yang dapat dimakan buah dan pucuk mudanya. Buah dari labu siam ini berfungsi untuk mengobati penyakit hipertensi dengan cara buahnya dihancurkan, ditambah sedikit air, diperas, disaring dan diminum airnya.",
+        "function": false
+    },
+    "rosam": {
+        "spelling": "rosam",
+        "translate": "resam",
+        "type": "nomina",
+        "defenition": "Tumbuhan pakis, batangnya keras dan dapat dibuat kalam.",
+        "function": false
+    },
+    "undur-undur": {
+        "spelling": "undur-undur",
+        "translate": "undur-undur",
+        "type": "nomina",
+        "defenition": "Binatang kecil yang suka membuat lubang seperti kawah di tanah berdebu untuk menjebak (misalnya semut), kalau berjalan selalu mundur. Binatang kecil ini dapat digunakan untuk mengobati asma, sakit kuning, asam urat dan tifus.",
+        "function": false
+    },
+    "kaliali": {
+        "spelling": "kaliali",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "Sejenis akar tumbuhan yang bermanfaat untuk mengobati demam tinggi.",
+        "function": false
+    },
+    "Sarai": {
+        "spelling": "sarai",
+        "translate": "serei",
+        "type": "nomina",
+        "defenition": "Tanaman tahunan dari suku Gramineae ini membentuk rumpun yang padat dengan batang yang kaku dan pendek. Daunnya berbentuk seperti pita yang meruncing ke ujung. Tanaman ini menghasilkan minyak serai, dan bonggol batang muda dapat digunakan sebagai penyedap berbagai masakan.",
+        "function": false
+    },
+    "salusuah": {
+        "spelling": "salusuah",
+        "translate": "",
+        "type": "nomina",
+        "defenition": "air yang telah diberi doa atau mantra untuk menolong orang yang akan melahirkan.",
+        "function": false
     }
 }

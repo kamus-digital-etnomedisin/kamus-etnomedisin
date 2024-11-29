@@ -2,6 +2,8 @@ var localData, search;
 
 $.getJSON("localData.json", function (response) {
     localData = response;
+    console.log(localData);
+    
 }).fail(function (xhr, status, error) {
     console.log("Terjadi kesalahan: " + status, error);
 });
@@ -28,7 +30,11 @@ function searchSelector(){
             $("span.dataTranslate").text(searchData($(this).attr('data-index'))[0].translate);
             $("span.dataType").text(searchData($(this).attr('data-index'))[0].type);
             $("span.dataDefenition").text(searchData($(this).attr('data-index'))[0].defenition);
-            $("span.dataFunction").text(searchData($(this).attr('data-index'))[0].function);
+            if(searchData($(this).attr('data-index'))[0].function){
+                $("span.dataFunction").text(searchData($(this).attr('data-index'))[0].function);
+            } else{
+                $("span.dataFunction").text(null);
+            }
         });
     });
 }
